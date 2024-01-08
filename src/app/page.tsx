@@ -2,5 +2,9 @@ import Image from 'next/image';
 import styles from './page.module.css';
 
 export default function Home() {
-  return <h1>sync deploy test-main!!!!!!!!!!!!!!</h1>;
+  return (
+    <div>
+      <h1>commit 1</h1>
+    </div>
+  );
 }
