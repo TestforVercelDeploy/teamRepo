@@ -6,6 +6,7 @@ export default function Home() {
     <div>
       <h1>commit 1</h1>
       <h1>commit 2</h1>
+      <h1>commit 3</h1>
     </div>
   );
 }
